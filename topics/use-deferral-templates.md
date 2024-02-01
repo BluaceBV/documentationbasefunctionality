@@ -26,4 +26,9 @@ We can see in advance how the amounts will be distributed. On the right side of 
 
 ![Deferral Schedule](../images/use-deferral-templates/deferral-schedule.png)
 
+## Example of Posting
+The booking for sending and invoicing looks as follows:
+
+![Positng example](../images/use-deferral-templates/example-posting.png)
+
 [:arrow_left:](../README.md) [Back](../README.md)

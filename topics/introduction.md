@@ -17,16 +17,16 @@ _Standard invoice and document layout_
 
 Of course, you want your outgoing documents to look neat. Your customers will get their hands on this documentation, which is why it's a vital calling card for your business. In conclusion, investing in well-designed invoice and document layouts can positively impact efficiency, customer relationships, and your business's overall look and feel.
 
-In the standard application of Business Central, the layouts are not standardized. With this app, you can give the following documents all the same look and feel:
-*	Project quotation;
-*	Purchase quotation;
-*	Purchase order;
-*	Reminder (test);
-*	Sales quotation;
-*	Sales order confirmation;
-*	Sales of draft invoice;
-*	Sales proforma invoice;
-*	Sales invoice;
-*	Sales credit note.
+In the standard application of Business Central, the layouts are not standardized. With this app, you can give the following documents all the same look and feel
+*	Project Quotation;
+*	Purchase Quotation
+*	Purchase Order
+*	Reminder (test)
+*	Sales Quotation
+*	Sales Order Confirmation
+*	Draft Invoice
+*	Sales Pro Forma Invoice
+*	Sales Invoice
+*	Sales Credit Memo
 
 [:arrow_left:](../README.md) [Back](../README.md)

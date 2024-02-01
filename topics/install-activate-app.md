@@ -3,7 +3,7 @@ This manual describes how to set up and use the Base Functionality app.
 
 ## Install and activate the app
 The following procedure shows how to install the extension through the Extension Management page.
-1.	Choose the icon  , Enter Extension Management, and the choose the related link. 
+1.	Choose the Search icon, Enter Extension Management, and the choose the related link. 
 2.	Choose from the menu the Extension Marketplace action.
 
     ![Extension Install](../images/install-activate-app/extension-install.png)
