@@ -2,7 +2,7 @@
 This manual describes how to set up and use the Base Functionality app.
 
 ## Deferral Templates
-In standard BC you already have the possibility to create deferral templates. Base Functionality has an extra possibility: **adjusted date formula**.
+In standard BC you already have the possibility to create deferral templates. Base Functionality has an extra possibility: **Adjusted date formula**.
 In this document we will explain the standard procedure and the adjusted date formula.
 
 ![Deferral Template](../images/deferral-templates/deferral-template.png)
@@ -19,7 +19,7 @@ In this document we will explain the standard procedure and the adjusted date fo
 | Period description  | <ul><li>%1 = No of day</li><li>%2 = No of week</li><li>%3 = Month as number</li><li>%4 = Written month</li><li>%5 = Written month</li><li>%6 = Year</li></ul>  |
 | Adjusted Date Formula  | -1M <br> As a result, the first booking is not made on the entered start date, but 1 month earlier.  |
 
-How this works in the section [Use Deferral Templates](use-deferral-templates.md).
+More information on how this works can be found in the section: [Use Deferral Templates](use-deferral-templates.md).
 
 ## Calculation Method
 When creating a deferral template, we can indicate what the calculation method is.

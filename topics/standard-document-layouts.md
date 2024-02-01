@@ -1,18 +1,18 @@
 # Manual Base Functionality
 This manual describes how to set up and use the Base Functionality app.
 
-## Standard invoice and document layout
+## Standard document layouts
 With Base Functionality you can give the following documents all the same look and feel:
-*	Project quotation
-*	Purchase quotation
-*	Purchase order
-*	Reminder (test)
-*	Sales quotation
-*	Sales order confirmation
-*	Sales of draft invoice
-*	Sales proforma invoice
-*	Sales invoice
-*	Sales credit note
+*	Project Quote
+*	Purchase Quote
+*	Purchase Order
+*	Reminder (Test)
+*	Sales Quotation
+*	Sales Order Confirmation
+*	Draft Invoice
+*	Sales Proforma Invoice
+*	Sales Invoice
+*	Sales Credit Memo
 
 To select these reports as standard in your company, follow this procedure:
 

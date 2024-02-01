@@ -8,7 +8,7 @@ This manual describes how to set up and use the Base Functionality app.
 * [Adjusted Date Formula](topics/deferral-templates.md#adjusted-date-formula)
 ### [Use Deferral Template](topics/use-deferral-templates.md)
 * [Example of Posting](topics/use-deferral-templates.md#example-of-posting)
-### [Standard invoice and document layout](topics/standard-invoice-document-layout.md)
+### [Standard document layouts](topics/standard-document-layouts.md)
 * [Sales Reports](topics/standard-invoice-document-layout.md#sales-reports)
 * [Purchase Reports](topics/standard-invoice-document-layout.md#purchase-reports)
 * [Reminder](topics/standard-invoice-document-layout.md#reminder)
